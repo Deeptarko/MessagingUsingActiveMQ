@@ -1,0 +1,11 @@
+package com.example.demo.receiver;
+
+import org.springframework.jms.annotation.JmsListener;
+
+public class JmsMessageConsumer {
+
+	@JmsListener(destination = "testmq1")
+	public void readMessage(String text) {
+		System.out.println("Received Message is :" + text);
+	}
+}

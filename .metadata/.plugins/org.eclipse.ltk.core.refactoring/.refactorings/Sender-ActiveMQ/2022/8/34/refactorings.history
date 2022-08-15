@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.example.sender&apos; to &apos;com.example.demo.sender&apos;&#x0D;&#x0A;- Original project: &apos;Sender-ActiveMQ&apos;&#x0D;&#x0A;- Original element: &apos;Sender-ActiveMQ/src/main/java/com.example.sender&apos;&#x0D;&#x0A;- Renamed element: &apos;Sender-ActiveMQ/src/main/java/com.example.demo.sender&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.example.sender&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.sender" name="com.example.demo.sender" qualified="false" references="true" stamp="1660532522441" textual="false" version="1.0"/>
+</session>
